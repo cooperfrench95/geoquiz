@@ -23,6 +23,8 @@ This is my second personal project built with React. It's a web-based geography 
 
 * SSL secured
 
+* Small countries/regions such as island nations in the Carribean are represented by easily clickable dots to make them more visible
+
 #### Technologies used
 
 After having some experience with the MERN stack (MongoDB, Express, React, Node) in my first portfolio project [Lowisigh](https://lowishigh.com), I wanted to change things up a little for this project in terms of the tech I used. 
@@ -46,6 +48,10 @@ The site is hosted on a Linux VPS with gunicorn and nginx.
 * As mentioned above, it would be nice to add some more gamemodes, such as US States, Russian Federal Subjects, Chinese provinces, etc. This is something I may look at doing in future, but right now I have other priorities.
 
 * The map is rendered from a Topojson file into SVG by an npm package called react-simple-maps. This is a great little package, but in an ideal world where I had more time I would probably have chosen something else because there were a few issues with the map. For one, it took quite a few tweaks to get the size of the map down to a point that the performance became reasonable when panning, and it's still a bit poor on mobile devices. Furthermore, pinch-to-zoom on mobile or touch screen devices, or even on laptops such as MacBooks, is not supported. There are buttons for zooming provided on the map, and a warning that tells mobile users to use the buttons to zoom, but the feedback I've had from users is that this is bad UX because they have been trained by constant popups on every website to not read warnings and just click 'OK', and in a similar vein they are accustomed to using a pinching motion to zoom in on a map. This is probably priority number 1 when it comes to improving this project, in my opinion.
+
+* Some of the clues are less useful than others. This is more of a gameplay problem than anything, and admittedly I didn't put too much thought into selecting the clue categories because the purpose of the site, at the end of the day, is for me to learn new things, gain some experience and display my skills. Regardless, what I ended up doing to compensate for this was to remove more points from the final score calculation for players who select more useful clues such as a country's capital.
+
+* There is a FOUC issue with the loading of some fonts. I ended up resorting to just placing in a 1-second loading screen on initial page load, which was a bit of a bandaid solution.
 
 #### Screenshots
 
