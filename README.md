@@ -13,6 +13,8 @@ This is my second personal project built with React. It's a web-based geography 
 
 * 3 difficulty modes
 
+* Written almost entirely with functional components using the new Hooks API
+
 * More than 15 categories of clues available, including images (sourced from Flickr), flag, capital, GDP per capita, average temperature, religion, region, total area, language, military spending, and more
 
 * Leaderboards for each individual difficulty mode
