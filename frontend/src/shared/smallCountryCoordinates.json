@@ -1,0 +1,464 @@
+[
+    {
+        "name": "British Virgin Islands",
+        "coordinates": [
+            -64.39934961543895,
+            18.4900011639063
+        ]
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "coordinates": [
+            -71.95390431057388,
+            21.912993441281742
+        ]
+    },
+    {
+        "name": "Curacao",
+        "coordinates": [
+            -68.85270503665913,
+            12.121956520187553
+        ]
+    },
+    {
+        "name": "Aruba",
+        "coordinates": [
+            -69.9757940865968,
+            12.513677198447681
+        ]
+    },
+    {
+        "name": "Cayman Islands",
+        "coordinates": [
+            -81.26603629494775,
+            19.3258718953241
+        ]
+    },
+    {
+        "name": "Cook Islands",
+        "coordinates": [
+            -159.78922694470387,
+            -21.220086945691605
+        ]
+    },
+    {
+        "name": "Samoa",
+        "coordinates": [
+            -172.41373026688336,
+            -13.637369985140253
+        ]
+    },
+    {
+        "name": "American Samoa",
+        "coordinates": [
+            -170.72829845387173,
+            -14.310235459814862
+        ]
+    },
+    {
+        "name": "Niue",
+        "coordinates": [
+            -169.8698917642777,
+            -19.054762203887947
+        ]
+    },
+    {
+        "name": "Tokelau",
+        "coordinates": [
+            -172.4850894267602,
+            -8.564862441025753
+        ]
+    },
+    {
+        "name": "Wallis and Futuna",
+        "coordinates": [
+            -176.1641621513486,
+            -13.279760063789581
+        ]
+    },
+    {
+        "name": "Tonga",
+        "coordinates": [
+            -175.23533295466754,
+            -21.158187998515473
+        ]
+    },
+    {
+        "name": "French Polynesia",
+        "coordinates": [
+            -149.47549597877855,
+            -17.6250049835121
+        ]
+    },
+    {
+        "name": "Pitcairn Islands",
+        "coordinates": [
+            -128.31780012096033,
+            -24.364139777771015
+        ]
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "coordinates": [
+            -61.78580425747009,
+            17.07294215812044
+        ]
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "coordinates": [
+            -62.57806596943965,
+            17.147172041872864
+        ]
+    },
+    {
+        "name": "Saint Martin",
+        "coordinates": [
+            -63.06039030379782,
+            18.071158607446876
+        ]
+    },
+    {
+        "name": "Anguilla",
+        "coordinates": [
+            -63.05263617503965,
+            18.228321050566194
+        ]
+    },
+    {
+        "name": "Dominica",
+        "coordinates": [
+            -61.35367574406672,
+            15.431584086663634
+        ]
+    },
+    {
+        "name": "Saint Lucia",
+        "coordinates": [
+            -60.97796404917631,
+            13.87809676253363
+        ]
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "coordinates": [
+            -61.20171098493569,
+            13.231854152880999
+        ]
+    },
+    {
+        "name": "Grenada",
+        "coordinates": [
+            -61.676858345532594,
+            12.108370660575304
+        ]
+    },
+    {
+        "name": "Barbados",
+        "coordinates": [
+            -59.554305983838844,
+            13.174672374462602
+        ]
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "coordinates": [
+            -61.255188941565905,
+            10.43680324164859
+        ]
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "coordinates": [
+            6.617198520543866,
+            0.24680695230819083
+        ]
+    },
+    {
+        "name": "Saint Helena, Ascension, and Tristan da Cunha",
+        "coordinates": [
+            -5.716296101395358,
+            -15.963221612123107
+        ]
+    },
+    {
+        "name": "Malta",
+        "coordinates": [
+            14.438179478988388,
+            35.882081031796645
+        ]
+    },
+    {
+        "name": "Bahrain",
+        "coordinates": [
+            50.553638136605,
+            26.06944265390905
+        ]
+    },
+    {
+        "name": "Maldives",
+        "coordinates": [
+            73.50223056083513,
+            4.186658727806048
+        ]
+    },
+    {
+        "name": "Singapore",
+        "coordinates": [
+            103.81481982900323,
+            1.3593639318135615
+        ]
+    },
+    {
+        "name": "Montserrat",
+        "coordinates": [
+            -62.2,
+            16.8
+        ]
+    },
+    {
+        "name": "Christmas Island",
+        "coordinates": [
+            105.7,
+            -10.5
+        ]
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "coordinates": [
+            96.82,
+            -12.16
+        ]
+    },
+    {
+        "name": "Norfolk Island",
+        "coordinates": [
+            167.95,
+            -29.03
+        ]
+    },
+    {
+        "name": "Brunei",
+        "coordinates": [
+            114.56745460338925,
+            4.434669496170784
+        ]
+    },
+    {
+        "name": "Palau",
+        "coordinates": [
+            134.57924133620793,
+            7.507494163314107
+        ]
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "coordinates": [
+            145.73926332724704,
+            15.17463695328189
+        ]
+    },
+    {
+        "name": "Guam",
+        "coordinates": [
+            144.77003842181864,
+            13.459684857600507
+        ]
+    },
+    {
+        "name": "Federated States of Micronesia",
+        "coordinates": [
+            158.2420151934607,
+            6.885941535379288
+        ]
+    },
+    {
+        "name": "Marshall Islands",
+        "coordinates": [
+            168.72896600641184,
+            7.313460144816133
+        ]
+    },
+    {
+        "name": "Kiribati",
+        "coordinates": [
+            173.13515838316619,
+            1.3642581241877565
+        ]
+    },
+    {
+        "name": "Nauru",
+        "coordinates": [
+            166.93748256244703,
+            -0.5230685359761083
+        ]
+    },
+    {
+        "name": "Tuvalu",
+        "coordinates": [
+            179.20397422623353,
+            -8.49972371316585
+        ]
+    },
+    {
+        "name": "Vanuatu",
+        "coordinates": [
+            166.9270664395989,
+            -15.367957152169708
+        ]
+    },
+    {
+        "name": "Lebanon",
+        "coordinates": [
+            35.808633535679405,
+            33.87448587195502
+        ]
+    },
+    {
+        "name": "Mauritius",
+        "coordinates": [
+            57.58565995816849,
+            -20.302274672122962
+        ]
+    },
+    {
+        "name": "Comoros",
+        "coordinates": [
+            43.337943198143535,
+            -11.715555516231973
+        ]
+    },
+    {
+        "name": "Seychelles",
+        "coordinates": [
+            46.44162940424445,
+            -9.402058190564674
+        ]
+    },
+    {
+        "name": "Faroe Islands",
+        "coordinates": [
+            -6.942567803221323,
+            62.19161776035833
+        ]
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "coordinates": [
+            -56.31570304234327,
+            46.85746558614022
+        ]
+    },
+    {
+        "name": "Bermuda",
+        "coordinates": [
+            -64.74797798630703,
+            32.307221641280876
+        ]
+    },
+    {
+        "name": "Luxembourg",
+        "coordinates": [
+            6.0902558063886545,
+            49.76391928042477
+        ]
+    },
+    {
+        "name": "Guernsey",
+        "coordinates": [
+            -2.5691385496041335,
+            49.45956768257895
+        ]
+    },
+    {
+        "name": "Gibraltar",
+        "coordinates": [
+            -5.369102999177471,
+            36.12781551432528
+        ]
+    },
+    {
+        "name": "Jersey",
+        "coordinates": [
+            -2.1325919823506183,
+            49.22976044467396
+        ]
+    },
+    {
+        "name": "Isle of Man",
+        "coordinates": [
+            -4.530992285637012,
+            54.20731507606871
+        ]
+    },
+    {
+        "name": "Liechtenstein",
+        "coordinates": [
+            9.53913850986504,
+            47.126776082995036
+        ]
+    },
+    {
+        "name": "San Marino",
+        "coordinates": [
+            12.458793865120413,
+            43.9409427686079
+        ]
+    },
+    {
+        "name": "Vatican City",
+        "coordinates": [
+            12.45044695618111,
+            41.900703886235135
+        ]
+    },
+    {
+        "name": "Monaco",
+        "coordinates": [
+            7.397134554240836,
+            43.75027012745045
+        ]
+    },
+    {
+        "name": "Andorra",
+        "coordinates": [
+            1.5476981635184188,
+            42.536812706414025
+        ]
+    },
+    {
+        "name": "US Virgin Islands",
+        "coordinates": [
+            -64.91238821976663,
+            18.34853693577321
+        ]
+    },
+    {
+        "name": "Palestine",
+        "coordinates": [
+            34.37664022153041,
+            31.426755899148986
+        ]
+    },
+    {
+        "name": "Sint Maarten",
+        "coordinates": [
+            -63.08106215715969,
+            18.008024861341028
+        ]
+    },
+    {
+        "name": "Hong Kong",
+        "coordinates": [
+            114.10792157282157,
+            22.437011833699916
+        ]
+    },
+    {
+        "name": "Macau",
+        "coordinates": [
+            113.54963900725241,
+            22.15425003529083
+        ]
+    }
+]
